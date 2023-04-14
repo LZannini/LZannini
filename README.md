@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Hello]!("https://media.tenor.com/JI2DEQBmmToAAAAM/soccer-dance.gif")
+![Hello](https://media.tenor.com/JI2DEQBmmToAAAAM/soccer-dance.gif)
 
 <!--
 **LZannini/LZannini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
