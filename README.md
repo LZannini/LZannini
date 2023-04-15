@@ -2,6 +2,7 @@
 
 
 ![Hello](https://media.tenor.com/JI2DEQBmmToAAAAM/soccer-dance.gif)
+![](https://komarev.com/ghpvc/?username=LZannini&color=red)
 
 <!--
 **LZannini/LZannini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
