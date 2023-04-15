@@ -5,7 +5,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LZannini&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/madushadhanushka/github-readme/7fdaafc245b0ffbb4aef5e6057553422e5750992/github-contribution-snake.svg)
 
 <!--
 **LZannini/LZannini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
