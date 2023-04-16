@@ -4,8 +4,6 @@
 ![Hello](https://media.tenor.com/JI2DEQBmmToAAAAM/soccer-dance.gif)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LZannini&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <!--
 **LZannini/LZannini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
